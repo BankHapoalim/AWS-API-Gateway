@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "aws-sdk": "^2.326.0",
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "front-matter": "^3.0.0",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.11",
